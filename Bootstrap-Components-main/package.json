@@ -1,0 +1,22 @@
+{
+  "name": "exp-2-components",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.7",
+    "@mui/material": "^7.3.7",
+    "@vitejs/plugin-react": "^5.1.2",
+    "bootstrap": "^5.3.8",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-router-dom": "^6.30.3",
+    "vite": "^7.3.1"
+  }
+}
